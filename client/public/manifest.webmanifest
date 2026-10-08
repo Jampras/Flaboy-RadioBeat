@@ -1,0 +1,19 @@
+{
+  "name": "J.A Radio — João Alvarez",
+  "short_name": "J.A Radio",
+  "description": "Beats, músicas e produção de João Alvarez.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#111116",
+  "theme_color": "#111116",
+  "orientation": "portrait-primary",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
